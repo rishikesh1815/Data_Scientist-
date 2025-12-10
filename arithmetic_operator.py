@@ -9,4 +9,5 @@ sum = num1 + num2
 sub = num1 - num2
 multiply = num1 * num2
 div = num1 / num2
+floordiv = num1 // num2
 remainder = num1 % num2
